@@ -1,0 +1,23 @@
+{
+  "is_fulfillment": false,
+  "license_condition": null,
+  "license_model": "none",
+  "license_roles": null,
+  "name": "x_308211_cicd_devo_cicd_devops_table",
+  "op_delete": true,
+  "op_insert": true,
+  "op_update": true,
+  "owner_condition": null,
+  "sys_class_name": "ua_table_licensing_config",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-10-30 17:18:50",
+  "sys_id": "136332f5dbf00010343f58b3ca9619d8",
+  "sys_mod_count": 0,
+  "sys_name": "x_308211_cicd_devo_cicd_devops_table",
+  "sys_package": "7a63f675dbf00010343f58b3ca961934",
+  "sys_policy": null,
+  "sys_scope": "7a63f675dbf00010343f58b3ca961934",
+  "sys_update_name": "ua_table_licensing_config_136332f5dbf00010343f58b3ca9619d8",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-10-30 17:18:50"
+}

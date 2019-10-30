@@ -1,0 +1,23 @@
+{
+  "element": null,
+  "help": null,
+  "hint": null,
+  "label": "CICD DevOps Table",
+  "language": "en",
+  "name": "x_308211_cicd_devo_cicd_devops_table",
+  "plural": "CICD DevOps Tables",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-10-30 17:18:50",
+  "sys_id": "5f6332f5dbf00010343f58b3ca961991",
+  "sys_mod_count": 0,
+  "sys_name": "CICD DevOps Table",
+  "sys_package": "7a63f675dbf00010343f58b3ca961934",
+  "sys_policy": null,
+  "sys_scope": "7a63f675dbf00010343f58b3ca961934",
+  "sys_update_name": "sys_documentation_x_308211_cicd_devo_cicd_devops_table__en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-10-30 17:18:50",
+  "url": null,
+  "url_target": null
+}

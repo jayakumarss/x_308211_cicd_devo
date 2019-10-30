@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-10-30 17:20:07">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</application>
+<application_name>CICD DevOps</application_name>
+<application_scope>x_308211_cicd_devo</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by CICD Process</description>
+<inserted/>
+<name>CICD DevOps - 1.0.0</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>1aa336f5dbf00010343f58b3ca96195b</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-30 17:20:07</sys_created_on>
+<sys_id>b9b3f6f5dbf00010343f58b3ca96194f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-30 17:20:07</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_application_8363feb5dbf00010343f58b3ca961928</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category/><description/><device_type>browser</device_type><hint/><name>CICD DevOps</name><order/><roles>x_308211_cicd_devo.user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-30 17:18:49</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8363feb5dbf00010343f58b3ca961928</sys_id><sys_mod_count>1</sys_mod_count><sys_name>CICD DevOps</sys_name><sys_overrides/><sys_package display_value="CICD DevOps" source="x_308211_cicd_devo">7a63f675dbf00010343f58b3ca961934</sys_package><sys_policy/><sys_scope display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</sys_scope><sys_update_name>sys_app_application_8363feb5dbf00010343f58b3ca961928</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-30 17:18:50</sys_updated_on><title>CICD DevOps</title><view_name/></sys_app_application></record_update>]]></payload>
+<payload_hash>1623476527</payload_hash>
+<remote_update_set display_value="CICD DevOps - 1.0.0">b9b3f6f5dbf00010343f58b3ca96194f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-30 17:20:07</sys_created_on>
+<sys_id>31b3f6f5dbf00010343f58b3ca961950</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e1dae4e1c0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-30 17:20:07</sys_updated_on>
+<table/>
+<target_name>CICD DevOps</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>daa3b6f515f0001014cdd3590946bdba</update_guid>
+<update_guid_history>daa3b6f515f0001014cdd3590946bdba:1623476527,cf6332f5eef000106121993a9c296c3b:1623476527,c763feb540f00010ec75ead8a6c01129:393114526</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_cb63feb5dbf00010343f58b3ca96192a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_308211_cicd_devo.user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-30 17:18:49</sys_created_on><sys_id>cb63feb5dbf00010343f58b3ca96192a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_308211_cicd_devo.user</sys_name><sys_package display_value="CICD DevOps" source="x_308211_cicd_devo">7a63f675dbf00010343f58b3ca961934</sys_package><sys_policy/><sys_scope display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</sys_scope><sys_update_name>sys_user_role_cb63feb5dbf00010343f58b3ca96192a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-30 17:18:49</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>-1642062946</payload_hash>
+<remote_update_set display_value="CICD DevOps - 1.0.0">b9b3f6f5dbf00010343f58b3ca96194f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-30 17:20:07</sys_created_on>
+<sys_id>31b3f6f5dbf00010343f58b3ca961953</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e1dae4e760000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-30 17:20:07</sys_updated_on>
+<table/>
+<target_name>x_308211_cicd_devo.user</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>52a3b6f545f00010d77de636abbfabc1</update_guid>
+<update_guid_history>52a3b6f545f00010d77de636abbfabc1:-1642062946,c76332f5f8f000100f9be26bd911ef33:-774148700</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_4b6332f5dbf00010343f58b3ca96196d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-30 17:18:50</sys_created_on><sys_id>4b6332f5dbf00010343f58b3ca96196d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_308211_cicd_devo_cicd_devops_table.x_308211_cicd_devo.user</sys_name><sys_package display_value="CICD DevOps" source="x_308211_cicd_devo">7a63f675dbf00010343f58b3ca961934</sys_package><sys_policy/><sys_scope display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</sys_scope><sys_security_acl display_value="x_308211_cicd_devo_cicd_devops_table">8f6332f5dbf00010343f58b3ca96196a</sys_security_acl><sys_update_name>sys_security_acl_role_4b6332f5dbf00010343f58b3ca96196d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-30 17:18:50</sys_updated_on><sys_user_role display_value="x_308211_cicd_devo.user" name="x_308211_cicd_devo.user">cb63feb5dbf00010343f58b3ca96192a</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-433277457</payload_hash>
+<remote_update_set display_value="CICD DevOps - 1.0.0">b9b3f6f5dbf00010343f58b3ca96194f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-30 17:20:07</sys_created_on>
+<sys_id>35b3f6f5dbf00010343f58b3ca961952</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e1dae4de30000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-30 17:20:07</sys_updated_on>
+<table>x_308211_cicd_devo_cicd_devops_table</table>
+<target_name>x_308211_cicd_devo_cicd_devops_table.x_308211_cicd_devo.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>56a3b6f545f00010b2de1698d2f52eb6</update_guid>
+<update_guid_history>56a3b6f545f00010b2de1698d2f52eb6:-433277457,876332f552f00010f3aedb61df4ba36f:-433277457</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_8b6332f5dbf00010343f58b3ca961965</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_308211_cicd_devo_cicd_devops_table</description><name>x_308211_cicd_devo_cicd_devops_table</name><operation display_value="write">write</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-30 17:18:50</sys_created_on><sys_id>8b6332f5dbf00010343f58b3ca961965</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_308211_cicd_devo_cicd_devops_table</sys_name><sys_package display_value="CICD DevOps" source="x_308211_cicd_devo">7a63f675dbf00010343f58b3ca961934</sys_package><sys_policy/><sys_scope display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</sys_scope><sys_update_name>sys_security_acl_8b6332f5dbf00010343f58b3ca961965</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-30 17:18:50</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-277612330</payload_hash>
+<remote_update_set display_value="CICD DevOps - 1.0.0">b9b3f6f5dbf00010343f58b3ca96194f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-30 17:20:07</sys_created_on>
+<sys_id>39b3f6f5dbf00010343f58b3ca961951</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e1dae4d4d0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-30 17:20:07</sys_updated_on>
+<table>x_308211_cicd_devo_cicd_devops_table</table>
+<target_name>x_308211_cicd_devo_cicd_devops_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>5aa3b6f5c1f00010ac7e3fda76cc20aa</update_guid>
+<update_guid_history>5aa3b6f5c1f00010ac7e3fda76cc20aa:-277612330,cb6332f5d1f00010012f757384d51667:-277612330</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_308211_cicd_devo_cicd_devops_table__en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="" label="CICD DevOps Table" language="en" table="x_308211_cicd_devo_cicd_devops_table"><sys_documentation action="INSERT_OR_UPDATE"><element/><help/><hint/><label>CICD DevOps Table</label><language>en</language><name>x_308211_cicd_devo_cicd_devops_table</name><plural>CICD DevOps Tables</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-30 17:18:50</sys_created_on><sys_id>5f6332f5dbf00010343f58b3ca961991</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CICD DevOps Table</sys_name><sys_package display_value="CICD DevOps" source="x_308211_cicd_devo">7a63f675dbf00010343f58b3ca961934</sys_package><sys_policy/><sys_scope display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</sys_scope><sys_update_name>sys_documentation_x_308211_cicd_devo_cicd_devops_table__en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-30 17:18:50</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-2014028047</payload_hash>
+<remote_update_set display_value="CICD DevOps - 1.0.0">b9b3f6f5dbf00010343f58b3ca96194f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-30 17:20:07</sys_created_on>
+<sys_id>3db3f6f5dbf00010343f58b3ca961950</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e1dae4e0b0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-30 17:20:07</sys_updated_on>
+<table>x_308211_cicd_devo_cicd_devops_table</table>
+<target_name>CICD DevOps Table</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>16a3b6f564f0001034e181556f6d1bb9</update_guid>
+<update_guid_history>16a3b6f564f0001034e181556f6d1bb9:-2014028047,5b6332f50af0001047033a5d8dccacdb:-2014028047</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_4b6332f5dbf00010343f58b3ca961944</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-30 17:18:50</sys_created_on><sys_id>4b6332f5dbf00010343f58b3ca961944</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_308211_cicd_devo_cicd_devops_table.x_308211_cicd_devo.user</sys_name><sys_package display_value="CICD DevOps" source="x_308211_cicd_devo">7a63f675dbf00010343f58b3ca961934</sys_package><sys_policy/><sys_scope display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</sys_scope><sys_security_acl display_value="x_308211_cicd_devo_cicd_devops_table">476332f5dbf00010343f58b3ca961941</sys_security_acl><sys_update_name>sys_security_acl_role_4b6332f5dbf00010343f58b3ca961944</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-30 17:18:50</sys_updated_on><sys_user_role display_value="x_308211_cicd_devo.user" name="x_308211_cicd_devo.user">cb63feb5dbf00010343f58b3ca96192a</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-1335316906</payload_hash>
+<remote_update_set display_value="CICD DevOps - 1.0.0">b9b3f6f5dbf00010343f58b3ca96194f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-30 17:20:07</sys_created_on>
+<sys_id>71b3f6f5dbf00010343f58b3ca961952</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e1dae4dcf0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-30 17:20:07</sys_updated_on>
+<table>x_308211_cicd_devo_cicd_devops_table</table>
+<target_name>x_308211_cicd_devo_cicd_devops_table.x_308211_cicd_devo.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>9ea3b6f5e2f0001021748052b6a777b4</update_guid>
+<update_guid_history>9ea3b6f5e2f0001021748052b6a777b4:-1335316906,cb6332f50af0001034ee31d68ef2b746:-1335316906</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_476332f5dbf00010343f58b3ca961941</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_308211_cicd_devo_cicd_devops_table</description><name>x_308211_cicd_devo_cicd_devops_table</name><operation display_value="create">create</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-30 17:18:50</sys_created_on><sys_id>476332f5dbf00010343f58b3ca961941</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_308211_cicd_devo_cicd_devops_table</sys_name><sys_package display_value="CICD DevOps" source="x_308211_cicd_devo">7a63f675dbf00010343f58b3ca961934</sys_package><sys_policy/><sys_scope display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</sys_scope><sys_update_name>sys_security_acl_476332f5dbf00010343f58b3ca961941</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-30 17:18:50</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>570432230</payload_hash>
+<remote_update_set display_value="CICD DevOps - 1.0.0">b9b3f6f5dbf00010343f58b3ca96194f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-30 17:20:07</sys_created_on>
+<sys_id>75b3f6f5dbf00010343f58b3ca961951</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e1dae4d3c0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-30 17:20:07</sys_updated_on>
+<table>x_308211_cicd_devo_cicd_devops_table</table>
+<target_name>x_308211_cicd_devo_cicd_devops_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>d2a3b6f5eaf00010cb3707e307d848a9</update_guid>
+<update_guid_history>d2a3b6f5eaf00010cb3707e307d848a9:570432230,8f6332f551f000104a0df99b04bd5743:570432230</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_308211_cicd_devo_cicd_devops_table_null</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="" extends="task" table="x_308211_cicd_devo_cicd_devops_table"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element/&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Collection"&gt;collection&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;x_308211_cicd_devo_cicd_devops_table&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-10-30 17:18:50&lt;/sys_created_on&gt;&lt;sys_id&gt;436332f5dbf00010343f58b3ca961970&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;x_308211_cicd_devo_cicd_devops_table&lt;/sys_name&gt;&lt;sys_package display_value="CICD DevOps" source="x_308211_cicd_devo"&gt;7a63f675dbf00010343f58b3ca961934&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="CICD DevOps"&gt;7a63f675dbf00010343f58b3ca961934&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_308211_cicd_devo_cicd_devops_table_null&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-10-30 17:18:50&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1031003907</payload_hash>
+<remote_update_set display_value="CICD DevOps - 1.0.0">b9b3f6f5dbf00010343f58b3ca96194f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-30 17:20:07</sys_created_on>
+<sys_id>79b3f6f5dbf00010343f58b3ca961950</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e1dae4da40000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-30 17:20:07</sys_updated_on>
+<table>x_308211_cicd_devo_cicd_devops_table</table>
+<target_name>CICD DevOps Table</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>9ea3b6f587f0001092a017997b34cab1</update_guid>
+<update_guid_history>9ea3b6f587f0001092a017997b34cab1:-1031003907,d76332f533f000108ebf3fbcfebc2ada:-1031003907</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_7a63f675dbf00010343f58b3ca961934</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>false</can_edit_in_studio><enforce_license>none</enforce_license><js_level>helsinki_es5</js_level><licensable>true</licensable><license_category>none</license_category><license_model>none</license_model><logo/><menu display_value="CICD DevOps">8363feb5dbf00010343f58b3ca961928</menu><name>CICD DevOps</name><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>x_308211_cicd_devo</scope><scoped_administration>false</scoped_administration><short_description/><source>x_308211_cicd_devo</source><store_correlation_id/><store_url/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-30 17:18:49</sys_created_on><sys_id>7a63f675dbf00010343f58b3ca961934</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-30 17:18:49</sys_updated_on><template/><trackable>true</trackable><user_role display_value="x_308211_cicd_devo.user" name="x_308211_cicd_devo.user">cb63feb5dbf00010343f58b3ca96192a</user_role><vendor/><vendor_prefix/><version>1.0.0</version></sys_app></record_update>]]></payload>
+<payload_hash>-1698330918</payload_hash>
+<remote_update_set display_value="CICD DevOps - 1.0.0">b9b3f6f5dbf00010343f58b3ca96194f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-30 17:20:07</sys_created_on>
+<sys_id>7db3f6f5dbf00010343f58b3ca96194f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e1dae4d120000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-30 17:20:07</sys_updated_on>
+<table/>
+<target_name>CICD DevOps</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid>5aa336f56ff00010e55e288b3638b45d</update_guid>
+<update_guid_history>5aa336f56ff00010e55e288b3638b45d:-1698330918,0b6332f5c5f0001048ac18f9c0f0cd38:-1698330918</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_module_d36372f5dbf00010343f58b3ca96190f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="CICD DevOps">1b6372f5dbf00010343f58b3ca96190d</application><filter/><name>CICD DevOps Table</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_308211_cicd_devo.user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-30 17:18:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d36372f5dbf00010343f58b3ca96190f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CICD DevOps Table</sys_name><sys_package display_value="CICD DevOps" source="x_308211_cicd_devo">7a63f675dbf00010343f58b3ca961934</sys_package><sys_policy/><sys_scope display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</sys_scope><sys_update_name>sys_ui_module_d36372f5dbf00010343f58b3ca96190f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-30 17:18:51</sys_updated_on><table>x_308211_cicd_devo_cicd_devops_table</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+<payload_hash>1727667005</payload_hash>
+<remote_update_set display_value="CICD DevOps - 1.0.0">b9b3f6f5dbf00010343f58b3ca96194f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-30 17:20:07</sys_created_on>
+<sys_id>7db3f6f5dbf00010343f58b3ca961952</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e1dae4e8d0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-30 17:20:07</sys_updated_on>
+<table>x_308211_cicd_devo_cicd_devops_table</table>
+<target_name>CICD DevOps Table</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>9ea3b6f546f000109e5262016265afc2</update_guid>
+<update_guid_history>9ea3b6f546f000109e5262016265afc2:1727667005,d36372f521f00010c3185c0e59eec110:1727667005</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_0b6332f5dbf00010343f58b3ca961947</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_308211_cicd_devo_cicd_devops_table</description><name>x_308211_cicd_devo_cicd_devops_table</name><operation display_value="read">read</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-30 17:18:50</sys_created_on><sys_id>0b6332f5dbf00010343f58b3ca961947</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_308211_cicd_devo_cicd_devops_table</sys_name><sys_package display_value="CICD DevOps" source="x_308211_cicd_devo">7a63f675dbf00010343f58b3ca961934</sys_package><sys_policy/><sys_scope display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</sys_scope><sys_update_name>sys_security_acl_0b6332f5dbf00010343f58b3ca961947</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-30 17:18:50</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-671775078</payload_hash>
+<remote_update_set display_value="CICD DevOps - 1.0.0">b9b3f6f5dbf00010343f58b3ca96194f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-30 17:20:07</sys_created_on>
+<sys_id>b1b3f6f5dbf00010343f58b3ca961951</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e1dae4d290000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-30 17:20:07</sys_updated_on>
+<table>x_308211_cicd_devo_cicd_devops_table</table>
+<target_name>x_308211_cicd_devo_cicd_devops_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>16a336f5a4f000104700d6f3cc72345f</update_guid>
+<update_guid_history>16a336f5a4f000104700d6f3cc72345f:-671775078,4b6332f5cff00010089397019bb75b49:-671775078</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</application>
+<category>customer</category>
+<comments/>
+<name>sys_db_object_ba63f675dbf00010343f58b3ca961934</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>CICD DevOps Table</label><live_feed_enabled>false</live_feed_enabled><name>x_308211_cicd_devo_cicd_devops_table</name><number_ref display_value="CIC">9f6332f5dbf00010343f58b3ca9619dd</number_ref><provider_class/><read_access>true</read_access><super_class display_value="Task" name="task">29c855b47420330078509adcc48c8788</super_class><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-30 17:18:50</sys_created_on><sys_id>ba63f675dbf00010343f58b3ca961934</sys_id><sys_mod_count>1</sys_mod_count><sys_name>CICD DevOps Table</sys_name><sys_package display_value="CICD DevOps" source="x_308211_cicd_devo">7a63f675dbf00010343f58b3ca961934</sys_package><sys_policy/><sys_scope display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</sys_scope><sys_update_name>sys_db_object_ba63f675dbf00010343f58b3ca961934</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-30 17:18:51</sys_updated_on><update_access>false</update_access><user_role display_value="x_308211_cicd_devo.user" name="x_308211_cicd_devo.user">cb63feb5dbf00010343f58b3ca96192a</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+<payload_hash>1691529321</payload_hash>
+<remote_update_set display_value="CICD DevOps - 1.0.0">b9b3f6f5dbf00010343f58b3ca96194f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-30 17:20:07</sys_created_on>
+<sys_id>b5b3f6f5dbf00010343f58b3ca961950</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e1dae4e4c0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-30 17:20:07</sys_updated_on>
+<table>x_308211_cicd_devo_cicd_devops_table</table>
+<target_name>CICD DevOps Table</target_name>
+<type>Table</type>
+<update_domain>global</update_domain>
+<update_guid>dea3b6f5bef000109720e166a947d8bd</update_guid>
+<update_guid_history>dea3b6f5bef000109720e166a947d8bd:1691529321,d76372f543f0001043a16f35a8de1a08:1691529321,1f6332f5e6f00010861469cb3b385adc:348766622</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</application>
+<category>customer</category>
+<comments/>
+<name>ua_table_licensing_config_136332f5dbf00010343f58b3ca9619d8</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_308211_cicd_devo_cicd_devops_table</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-30 17:18:50</sys_created_on><sys_id>136332f5dbf00010343f58b3ca9619d8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_308211_cicd_devo_cicd_devops_table</sys_name><sys_package display_value="CICD DevOps" source="x_308211_cicd_devo">7a63f675dbf00010343f58b3ca961934</sys_package><sys_policy/><sys_scope display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</sys_scope><sys_update_name>ua_table_licensing_config_136332f5dbf00010343f58b3ca9619d8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-30 17:18:50</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+<payload_hash>1144185540</payload_hash>
+<remote_update_set display_value="CICD DevOps - 1.0.0">b9b3f6f5dbf00010343f58b3ca96194f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-30 17:20:07</sys_created_on>
+<sys_id>b5b3f6f5dbf00010343f58b3ca961953</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e1dae4d6f0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-30 17:20:07</sys_updated_on>
+<table/>
+<target_name>x_308211_cicd_devo_cicd_devops_table</target_name>
+<type>Table Subscription Configuration</type>
+<update_domain>global</update_domain>
+<update_guid>96a3b6f51ff000101a83a54f059f29ad</update_guid>
+<update_guid_history>96a3b6f51ff000101a83a54f059f29ad:1144185540,df6332f548f00010e5b8debc4ffee2d8:1144185540</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_application_1b6372f5dbf00010343f58b3ca96190d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application"><sys_ui_application action="INSERT_OR_UPDATE"><active>true</active><hint/><name>CICD DevOps</name><order/><roles>x_308211_cicd_devo.user</roles><sys_class_name>sys_ui_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-30 17:18:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1b6372f5dbf00010343f58b3ca96190d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CICD DevOps</sys_name><sys_overrides/><sys_package display_value="CICD DevOps" source="x_308211_cicd_devo">7a63f675dbf00010343f58b3ca961934</sys_package><sys_policy/><sys_scope display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</sys_scope><sys_update_name>sys_ui_application_1b6372f5dbf00010343f58b3ca96190d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-30 17:18:51</sys_updated_on></sys_ui_application></record_update>]]></payload>
+<payload_hash>1983013357</payload_hash>
+<remote_update_set display_value="CICD DevOps - 1.0.0">b9b3f6f5dbf00010343f58b3ca96194f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-30 17:20:07</sys_created_on>
+<sys_id>b9b3f6f5dbf00010343f58b3ca961952</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e1dae4d910000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-30 17:20:07</sys_updated_on>
+<table/>
+<target_name>CICD DevOps</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>16a3b6f55df000103f623cd19f3aefb0</update_guid>
+<update_guid_history>16a3b6f55df000103f623cd19f3aefb0:1983013357,d76372f5cbf000101ae92f6671b4e80e:1983013357</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_476332f5dbf00010343f58b3ca961968</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-30 17:18:50</sys_created_on><sys_id>476332f5dbf00010343f58b3ca961968</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_308211_cicd_devo_cicd_devops_table.x_308211_cicd_devo.user</sys_name><sys_package display_value="CICD DevOps" source="x_308211_cicd_devo">7a63f675dbf00010343f58b3ca961934</sys_package><sys_policy/><sys_scope display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</sys_scope><sys_security_acl display_value="x_308211_cicd_devo_cicd_devops_table">8b6332f5dbf00010343f58b3ca961965</sys_security_acl><sys_update_name>sys_security_acl_role_476332f5dbf00010343f58b3ca961968</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-30 17:18:50</sys_updated_on><sys_user_role display_value="x_308211_cicd_devo.user" name="x_308211_cicd_devo.user">cb63feb5dbf00010343f58b3ca96192a</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>1803681983</payload_hash>
+<remote_update_set display_value="CICD DevOps - 1.0.0">b9b3f6f5dbf00010343f58b3ca96194f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-30 17:20:07</sys_created_on>
+<sys_id>bdb3f6f5dbf00010343f58b3ca961951</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e1dae4dbd0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-30 17:20:07</sys_updated_on>
+<table>x_308211_cicd_devo_cicd_devops_table</table>
+<target_name>x_308211_cicd_devo_cicd_devops_table.x_308211_cicd_devo.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>d6a3b6f5b5f000109f6d09f355a659b3</update_guid>
+<update_guid_history>d6a3b6f5b5f000109f6d09f355a659b3:1803681983,836332f5c2f00010163fc685d07c126a:1803681983</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_176372f5dbf00010343f58b3ca96190b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="CICD DevOps">8363feb5dbf00010343f58b3ca961928</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>CICD DevOps Table</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_308211_cicd_devo_cicd_devops_table</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_308211_cicd_devo.user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-30 17:18:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>176372f5dbf00010343f58b3ca96190b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CICD DevOps Table</sys_name><sys_overrides/><sys_package display_value="CICD DevOps" source="x_308211_cicd_devo">7a63f675dbf00010343f58b3ca961934</sys_package><sys_policy/><sys_scope display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</sys_scope><sys_update_name>sys_app_module_176372f5dbf00010343f58b3ca96190b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-30 17:18:51</sys_updated_on><timeline_page/><title>CICD DevOps Table</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>-880624316</payload_hash>
+<remote_update_set display_value="CICD DevOps - 1.0.0">b9b3f6f5dbf00010343f58b3ca96194f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-30 17:20:07</sys_created_on>
+<sys_id>f1b3f6f5dbf00010343f58b3ca961950</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e1dae4d800000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-30 17:20:07</sys_updated_on>
+<table>x_308211_cicd_devo_cicd_devops_table</table>
+<target_name>CICD DevOps Table</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>5ea3b6f5ccf00010920c6c14fde872ae</update_guid>
+<update_guid_history>5ea3b6f5ccf00010920c6c14fde872ae:-880624316,db6372f5f7f000108d11407ded878b0c:-880624316</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</application>
+<category>customer</category>
+<comments/>
+<name>sys_wizard_answer_c36332f5dbf00010343f58b3ca961990</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>CICD DevOps Table</answer><button_label/><dependent_value/><element/><name>CICD DevOps Table</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">2dc855b47420330078509adcc48c8789</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-30 17:18:50</sys_created_on><sys_id>c36332f5dbf00010343f58b3ca961990</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CICD DevOps Table</sys_name><sys_package display_value="CICD DevOps" source="x_308211_cicd_devo">7a63f675dbf00010343f58b3ca961934</sys_package><sys_policy/><sys_scope display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</sys_scope><sys_update_name>sys_wizard_answer_c36332f5dbf00010343f58b3ca961990</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-30 17:18:50</sys_updated_on><table/><target_url>x_308211_cicd_devo_cicd_devops_table.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+<payload_hash>873827215</payload_hash>
+<remote_update_set display_value="CICD DevOps - 1.0.0">b9b3f6f5dbf00010343f58b3ca96194f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-30 17:20:07</sys_created_on>
+<sys_id>f1b3f6f5dbf00010343f58b3ca961953</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e1dae4e630000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-30 17:20:07</sys_updated_on>
+<table/>
+<target_name>CICD DevOps Table</target_name>
+<type>Answer</type>
+<update_domain>global</update_domain>
+<update_guid>1aa3b6f59cf0001094559fc0852415bf</update_guid>
+<update_guid_history>1aa3b6f59cf0001094559fc0852415bf:873827215</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_c36332f5dbf00010343f58b3ca96194a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-30 17:18:50</sys_created_on><sys_id>c36332f5dbf00010343f58b3ca96194a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_308211_cicd_devo_cicd_devops_table.x_308211_cicd_devo.user</sys_name><sys_package display_value="CICD DevOps" source="x_308211_cicd_devo">7a63f675dbf00010343f58b3ca961934</sys_package><sys_policy/><sys_scope display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</sys_scope><sys_security_acl display_value="x_308211_cicd_devo_cicd_devops_table">0b6332f5dbf00010343f58b3ca961947</sys_security_acl><sys_update_name>sys_security_acl_role_c36332f5dbf00010343f58b3ca96194a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-30 17:18:50</sys_updated_on><sys_user_role display_value="x_308211_cicd_devo.user" name="x_308211_cicd_devo.user">cb63feb5dbf00010343f58b3ca96192a</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>201901707</payload_hash>
+<remote_update_set display_value="CICD DevOps - 1.0.0">b9b3f6f5dbf00010343f58b3ca96194f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-30 17:20:07</sys_created_on>
+<sys_id>f5b3f6f5dbf00010343f58b3ca961952</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e1dae4df50000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-30 17:20:07</sys_updated_on>
+<table>x_308211_cicd_devo_cicd_devops_table</table>
+<target_name>x_308211_cicd_devo_cicd_devops_table.x_308211_cicd_devo.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>1ea3b6f5ccf00010d71db470f12d7bb7</update_guid>
+<update_guid_history>1ea3b6f5ccf00010d71db470f12d7bb7:201901707,8f6332f5b9f00010fc7c8bc8857a9564:201901707</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_8f6332f5dbf00010343f58b3ca96196a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_308211_cicd_devo_cicd_devops_table</description><name>x_308211_cicd_devo_cicd_devops_table</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-30 17:18:50</sys_created_on><sys_id>8f6332f5dbf00010343f58b3ca96196a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_308211_cicd_devo_cicd_devops_table</sys_name><sys_package display_value="CICD DevOps" source="x_308211_cicd_devo">7a63f675dbf00010343f58b3ca961934</sys_package><sys_policy/><sys_scope display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</sys_scope><sys_update_name>sys_security_acl_8f6332f5dbf00010343f58b3ca96196a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-30 17:18:50</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-940675004</payload_hash>
+<remote_update_set display_value="CICD DevOps - 1.0.0">b9b3f6f5dbf00010343f58b3ca96194f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-30 17:20:07</sys_created_on>
+<sys_id>f9b3f6f5dbf00010343f58b3ca961951</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e1dae4d5e0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-30 17:20:07</sys_updated_on>
+<table>x_308211_cicd_devo_cicd_devops_table</table>
+<target_name>x_308211_cicd_devo_cicd_devops_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>dea3b6f54df000107b6568d15eedffab</update_guid>
+<update_guid_history>dea3b6f54df000107b6568d15eedffab:-940675004,cf6332f5fdf00010411f205d2a76916c:-940675004</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</application>
+<category>customer</category>
+<comments/>
+<name>sys_number_9f6332f5dbf00010343f58b3ca9619dd</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_308211_cicd_devo_cicd_devops_table">x_308211_cicd_devo_cicd_devops_table</category><maximum_digits>7</maximum_digits><number>1000</number><prefix>CIC</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-30 17:18:51</sys_created_on><sys_id>9f6332f5dbf00010343f58b3ca9619dd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CIC</sys_name><sys_package display_value="CICD DevOps" source="x_308211_cicd_devo">7a63f675dbf00010343f58b3ca961934</sys_package><sys_policy/><sys_scope display_value="CICD DevOps">7a63f675dbf00010343f58b3ca961934</sys_scope><sys_update_name>sys_number_9f6332f5dbf00010343f58b3ca9619dd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-30 17:18:51</sys_updated_on></sys_number></record_update>]]></payload>
+<payload_hash>-913184858</payload_hash>
+<remote_update_set display_value="CICD DevOps - 1.0.0">b9b3f6f5dbf00010343f58b3ca96194f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-30 17:20:07</sys_created_on>
+<sys_id>fdb3f6f5dbf00010343f58b3ca961950</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e1dae4e320000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-30 17:20:07</sys_updated_on>
+<table/>
+<target_name>CIC</target_name>
+<type>Number</type>
+<update_domain>global</update_domain>
+<update_guid>d2a3b6f5eff00010a3fb5d6343e531bc</update_guid>
+<update_guid_history>d2a3b6f5eff00010a3fb5d6343e531bc:-913184858,5f6372f59cf0001089e461bd68cc8c09:-913184858</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>

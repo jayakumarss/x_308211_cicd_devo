@@ -1,0 +1,16 @@
+{
+  "order": 1000,
+  "role": "20168775db340010343f58b3ca961968",
+  "sys_class_name": "sys_embedded_help_role",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-10-30 18:40:18",
+  "sys_id": "2c168775db340010343f58b3ca96196a",
+  "sys_mod_count": 0,
+  "sys_name": "20168775db340010343f58b3ca961968",
+  "sys_package": "7a63f675dbf00010343f58b3ca961934",
+  "sys_policy": null,
+  "sys_scope": "7a63f675dbf00010343f58b3ca961934",
+  "sys_update_name": "sys_embedded_help_role_2c168775db340010343f58b3ca96196a",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-10-30 18:40:18"
+}
